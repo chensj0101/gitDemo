@@ -7,3 +7,5 @@ Git is free software distributed under the GPL.
 LLLLLLLLLLL
 
 将本地仓库与远程仓库关联起来。
+
+多人协作出现冲突
