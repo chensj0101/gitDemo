@@ -13,3 +13,4 @@ LLLLLLLLLLL
 
 创建dev分支
 
+强制禁用Fast forward模式
